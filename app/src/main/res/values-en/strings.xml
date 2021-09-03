@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Air Androckey</string>
+    <string name ="text_client">Join a match</string>
+    <string name ="text_server">Start a new match</string>
+    <string name ="text_welcome">Welcome!</string>
+    <string name ="text_surprise">Surprise</string>
+    <string name ="text_waiting">Wait for someone to start a match...</string>
+    <string name ="text_yes">Yes</string>
+    <string name ="text_no">No</string>
+    <string name ="text_connection_incoming"> wants to play with you. Accept?</string>
+    <string name ="text_your_name">Your name:</string>
+    <string name ="text_list_devices">List of devices you are already paired with (scroll to see more):</string>
+    <string name ="text_button_search_new">can\u0027t see your friend\u0027s device? Click here</string>
+    <string name ="text_go">Go!</string>
+    <string name ="text_goal">Goal!</string>
+    <string name ="text_not_goal">Damn it!</string>
+    <string name ="text_won">You Won!</string>
+    <string name ="text_lose">You lost!</string>
+    <string name ="text_error_bluetooth">Something went wrong. Retry</string>
+    <string name ="text_wait_bluetooth">Wait the response from the other player...</string>
+    <string name ="text_deny_bluetooth">Your request has been denied</string>
+
+</resources>
